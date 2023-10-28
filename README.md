@@ -2,7 +2,8 @@
 <h4>Greetings, Earthlings!<br> I'm Vedas, A passionate Undergraduate student who is obsessed with Technology & Wildlife.</h4>
 
 
-## Technologies
+<h2>Technologies ❐</h2>
+
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -22,8 +23,8 @@
 [![Vedas`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vedas-dixit&theme=github-compact)](https://github.com/vedas-dixit/github-readme-activity-graph)
 
 
-<!--
-<h2>Projects </h2>
+
+<h2>Personal Projects ☲</h2>
 <div align="center">
 <a href="https://github.com/yeazin/vedas-dixit/JavaScript">
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=vedas-dixit&theme=react&repo=JavaScript" />
@@ -32,12 +33,12 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedas-dixit&theme=react&repo=Pomo-Doro" />
 </a>
 </div>
--->
+
 
 
 <br>
 
-<h1>Stats</h1>
+<h2>Stats ≙</h2>
 
 <a> 
     <a href="https://github.com/vedas-dixit"><img alt="Vedas's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vedas-dixit&show_icons=true&count_private=true&theme=react&border_color=F5A817&bg_color=0D1117&title_color=75D76E&icon_color=F8D866" height="192px" width="49.5%"/></a>
@@ -51,7 +52,7 @@
   </a>
 
 <br>
-<h1>Let's merge our skills</h1>
+<h2>Connect ⇋</h2>
 <h3>Your expertise, my passion. Let's bring our ideas to reality!</h3>
 <p>
  <a href="mailto:vedsdixit1006@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
