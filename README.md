@@ -22,6 +22,7 @@
 [![Vedas`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vedas-dixit&theme=github-compact)](https://github.com/vedas-dixit/github-readme-activity-graph)
 
 
+<!--
 <h2>Projects </h2>
 <div align="center">
 <a href="https://github.com/yeazin/vedas-dixit/JavaScript">
@@ -31,13 +32,23 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedas-dixit&theme=react&repo=Pomo-Doro" />
 </a>
 </div>
+-->
 
 
 <br>
-<br>
+
+<h1>Stats</h1>
 
 <a> 
     <a href="https://github.com/vedas-dixit"><img alt="Vedas's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vedas-dixit&show_icons=true&count_private=true&theme=react&border_color=F5A817&bg_color=0D1117&title_color=75D76E&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/vedas-dixit"><img alt="Vedas's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vedas-dixit&langs_count=8&layout=compact&theme=react&border_color=F5A817&bg_color=0D1117&title_color=75D76E&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
+
+<br>
+<h1>Let's merge our skills</h1>
+<h3>Your expertise, my passion. Let's bring our ideas to reality</h3>
+<p>
+ <a href="mailto:vedsdixit1006@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/vedas-dixit" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />
+</p>
