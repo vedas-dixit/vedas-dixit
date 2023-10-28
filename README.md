@@ -50,5 +50,5 @@
 <h3>Your expertise, my passion. Let's bring our ideas to reality</h3>
 <p>
  <a href="mailto:vedsdixit1006@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/vedas-dixit" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/vedas-dixit](https://www.linkedin.com/in/vedas-dixit-3465b5239" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />
 </p>
