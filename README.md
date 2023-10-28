@@ -1,7 +1,8 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=vedas-dixit&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/vedas-dixit)
-<h4>Greetings, Earthlings!<br> I'm Vedas, A passionate Undergraduate student who is obsessed with Technology & Wildlife.</h4>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=75D76E&height=120&section=header"/>
+<!--[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=vedas-dixit&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/vedas-dixit)-->
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=75D76E&size=35&center=true&vCenter=true&width=1000&lines=HELLO+Earthlings!;I'm+Vedas;I'm+from+India;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <h2>Technologies ❐</h2>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -24,7 +25,7 @@
 
 
 
-<h2>Personal Projects ☲</h2>
+<!--<h2>Personal Projects ☲</h2>
 <div align="center">
 <a href="https://github.com/yeazin/vedas-dixit/JavaScript">
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=vedas-dixit&theme=react&repo=JavaScript" />
@@ -33,7 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedas-dixit&theme=react&repo=Pomo-Doro" />
 </a>
 </div>
-
+-->
 
 
 <br>
@@ -58,3 +59,4 @@
  <a href="mailto:vedsdixit1006@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/vedas-dixit-3465b5239" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />
 </p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=75D76E&height=120&section=footer"/>
