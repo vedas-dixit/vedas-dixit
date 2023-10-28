@@ -3,8 +3,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=75D76E&size=35&center=true&vCenter=true&width=1000&lines=HELLO+Earthlings!;I'm+Vedas;I'm+from+India;Be+Welcome!+:%29)](https://git.io/typing-svg)
-<h2>Technologies ❐</h2>
-
+ ### Technologies ❐
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -39,7 +38,7 @@
 
 <br>
 
-<h2>Stats ≙</h2>
+### Stats ≙ 
 
 <a> 
     <a href="https://github.com/vedas-dixit"><img alt="Vedas's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vedas-dixit&show_icons=true&count_private=true&theme=react&border_color=F5A817&bg_color=0D1117&title_color=75D76E&icon_color=F8D866" height="192px" width="49.5%"/></a>
@@ -53,7 +52,8 @@
   </a>
 
 <br>
-<h2>Connect ⇋</h2>
+
+### Connect ⇋ 
 <h3>Your expertise, my passion. Let's bring our ideas to reality!</h3>
 <p>
  <a href="mailto:vedsdixit1006@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
