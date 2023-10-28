@@ -22,8 +22,6 @@
 
 [![Vedas`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vedas-dixit&theme=github-compact)](https://github.com/vedas-dixit/github-readme-activity-graph)
 
-
-
 <!--<h2>Personal Projects ☲</h2>
 <div align="center">
 <a href="https://github.com/yeazin/vedas-dixit/JavaScript">
@@ -35,18 +33,17 @@
 </div>
 -->
 
-
 <br>
 
 ### Stats ≙ 
 
 <a> 
-    <a href="https://github.com/vedas-dixit"><img alt="Vedas's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vedas-dixit&show_icons=true&count_private=true&theme=react&border_color=F5A817&bg_color=0D1117&title_color=75D76E&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/vedas-dixit"><img alt="Vedas's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vedas-dixit&langs_count=8&layout=compact&theme=react&border_color=F5A817&bg_color=0D1117&title_color=75D76E&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/vedas-dixit"><img alt="Vedas's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vedas-dixit&show_icons=true&count_private=true&theme=react&border_color=F5A817&hide_border=true&bg_color=0D1117&title_color=75D76E&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/vedas-dixit"><img alt="Vedas's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vedas-dixit&langs_count=8&layout=compact&theme=react&border_color=F5A817&hide_border=true&bg_color=0D1117&title_color=75D76E&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
   <p align="center">
   <a href="https://github.com/vedas-dixit">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedas-dixit&theme=radical&border=F5A817&background=0D1117" alt="Vedas's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedas-dixit&show_icons=true&hide_border=true&theme=react&border=F5A817&background=0D1117" alt="Vedas's GitHub streak"/>
   </a>
   </p>
   </a>
