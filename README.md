@@ -22,3 +22,19 @@
 [![Vedas`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vedas-dixit&theme=github-compact)](https://github.com/vedas-dixit/github-readme-activity-graph)
 
 
+<h2> Open Source! </h2>
+<a href="https://github.com/yeazin/Movement-Pass-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Movement-Pass-Clone" />
+</a>
+<a href="https://github.com/yeazin/Multi-Authors-advanced-Django-Blog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Multi-Authors-advanced-Django-Blog" />
+</a>
+ <a href="https://github.com/yeazin/Stackoverflow-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Stackoverflow-Clone" />
+</a>
+ <a href="https://github.com/yeazin/Zooming-cls">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Zooming-cls" />
+</a>
+
+<br>
+<br>
