@@ -43,7 +43,12 @@
     <a href="https://github.com/vedas-dixit"><img alt="Vedas's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vedas-dixit&show_icons=true&count_private=true&theme=react&border_color=F5A817&bg_color=0D1117&title_color=75D76E&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/vedas-dixit"><img alt="Vedas's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vedas-dixit&langs_count=8&layout=compact&theme=react&border_color=F5A817&bg_color=0D1117&title_color=75D76E&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
-</a>
+  <p align="center">
+  <a href="https://github.com/vedas-dixit">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedas-dixit&theme=radical&border=F5A817&background=0D1117" alt="Vedas's GitHub streak"/>
+  </a>
+  </p>
+  </a>
 
 <br>
 <h1>Let's merge our skills</h1>
