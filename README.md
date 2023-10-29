@@ -69,17 +69,17 @@
 <div align="left">
   <!-- Gmail (assuming you want to set up a mailto link) -->
   <a href="mailto:vedsdixit1006@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="75" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="75" height="30" alt="gmail logo"  />
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/vedas-dixit-3465b5239/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="75" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="75" height="30" alt="linkedin logo"  />
   </a>
 
   <!-- Discord (assuming you want to link to your Discord profile, but Discord profiles don't have direct links like this. You might need to provide Discord tag or use another method.) -->
   <a href="https://discord.com/users/Vedas#3275" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="75" height="40" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="75" height="30" alt="discord logo"  />
   </a>
 </div>
 
