@@ -83,7 +83,8 @@
   </a>
 </div>
 
+<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=75D76E&size=35&center=true&vCenter=true&width=1000&lines=THANK+YOU+FOR+STOPPING+BY+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=75D76E&size=35&center=true&repeat=false&vCenter=true&height=60&width=1000&lines=THANKS+FOR+STOPPING+BY+:%29)](https://git.io/typing-svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=75D76E&height=120&section=footer"/>
