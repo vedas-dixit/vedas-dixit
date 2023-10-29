@@ -66,10 +66,23 @@
 
 <h2>Connect ⇋</h2>
 <h3>Your expertise, my passion. Let's bring our ideas to reality!</h3>
-<p>
- <a href="mailto:vedsdixit1006@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/vedas-dixit-3465b5239" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />
-</p>
+<div align="left">
+  <!-- Gmail (assuming you want to set up a mailto link) -->
+  <a href="mailto:vedsdixit1006@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="75" height="40" alt="gmail logo"  />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/vedas-dixit-3465b5239/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="75" height="40" alt="linkedin logo"  />
+  </a>
+
+  <!-- Discord (assuming you want to link to your Discord profile, but Discord profiles don't have direct links like this. You might need to provide Discord tag or use another method.) -->
+  <a href="https://discord.com/users/Vedas#3275" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="75" height="40" alt="discord logo"  />
+  </a>
+</div>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=75D76E&size=35&center=true&vCenter=true&width=1000&lines=THANK+YOU+FOR+STOPPING+BY+:%29)](https://git.io/typing-svg)
 
