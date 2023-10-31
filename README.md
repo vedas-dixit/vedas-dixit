@@ -2,7 +2,7 @@
 <!--[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=vedas-dixit&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/vedas-dixit)-->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=75D76E&size=35&center=true&vCenter=true&width=1000&lines=HELLO+Earthlings!〄;I'm+Vedas;CODING+!=+Programming!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=75D76E&size=35&repeat=false&center=true&vCenter=true&width=1000&lines=HELLO+Earthlings!〄;I'm+Vedas;CODING+!=+Programming!+:%29)](https://git.io/typing-svg)
 <h2> Technologies ❐ </h2>
 <br>
 <div align="center">
