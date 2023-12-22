@@ -82,7 +82,13 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="75" height="30" alt="discord logo"  />
   </a>
   <br>
+  <h2>My Portfolio</h2>
+
+  Visit my portfolio [*Portfolio*](https://portfolio-2-0-six-delta.vercel.app/)
+
   <br>
+  <br>
+  
   <a href="https://drive.google.com/file/d/1-spueIOpNErVRnJmxytz24aMhKfgyTBe/view?usp=sharing" target="_blank">
     
     MY RESUME
