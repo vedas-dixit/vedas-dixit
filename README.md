@@ -84,7 +84,7 @@
   <br>
   <h2>My Portfolio</h2>
 
-  Visit my portfolio [*Portfolio*](https://portfolio-2-0-six-delta.vercel.app/)
+  Visit my portfolio [*Portfolio*](https://vedas-dixit-portfolio.vercel.app/)
 
   <br>
   <br>
