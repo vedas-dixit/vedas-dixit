@@ -89,9 +89,13 @@
   <br>
   <br>
   
-  <a href="https://drive.google.com/file/d/1-spueIOpNErVRnJmxytz24aMhKfgyTBe/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1d0IhUL5rC5WUgwyxAyK5Js0Fm_vkzG8l/view" target="_blank">
     
-    MY RESUME
+    MY RESUME(light)
+  </a>
+  <a href="https://drive.google.com/file/d/1K4mIKwGNZjas8kh9RbwBaX7_oyUZAG0s/view" target="_blank">
+    
+    MY RESUME(dark)
   </a>
 </div>
 
