@@ -1,8 +1,29 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=75D76E&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=shark&color=faf0e6&height=220&section=header"/>
 <!--[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=vedas-dixit&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/vedas-dixit)-->
 
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=75D76E&size=35&repeat=false&center=true&vCenter=true&width=1000&lines=HELLO+Earthlings!〄;I'm+Vedas;CODING+!=+Programming!+:%29)](https://git.io/typing-svg)
+```ascii
+╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                               ║
+║                                                                                               ║
+║     ██████╗ ██╗██╗  ██╗███████╗██╗         ██╗      █████╗ ████████╗████████╗███████╗         ║
+║     ██╔══██╗██║╚██╗██╔╝██╔════╝██║         ██║     ██╔══██╗╚══██╔══╝╚══██╔══╝██╔════╝         ║
+║     ██████╔╝██║ ╚███╔╝ █████╗  ██║         ██║     ███████║   ██║      ██║   █████╗           ║
+║     ██╔═══╝ ██║ ██╔██╗ ██╔══╝  ██║         ██║     ██╔══██║   ██║      ██║   ██╔══╝           ║
+║     ██║     ██║██╔╝ ██╗███████╗███████╗    ███████╗██║  ██║   ██║      ██║   ███████╗         ║
+║     ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝    ╚══════╝╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚══════╝         ║
+║                                                                                               ║
+║                                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
+
+             ════════════════════════════════════════════════════════════════════         
+                      九尾の狐 • KURAMA • "Code is poetry written in logic"                    
+     ════════════════════════════════════════════════════════════════════ 
+```
+
+</div>
+
 <h2> Technologies ❐ </h2>
 <br>
 <div align="center">
@@ -97,6 +118,4 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=75D76E&size=35&center=true&repeat=false&vCenter=true&height=60&width=1000&lines=THANKS+FOR+STOPPING+BY+:%29)](https://git.io/typing-svg)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=75D76E&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=shark&color=faf0e6&height=120&section=footer"/>
