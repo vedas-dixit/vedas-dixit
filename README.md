@@ -105,7 +105,7 @@
   <br>
   <h2>My Portfolio</h2>
 
-  Visit my portfolio [*Portfolio*](https://vedas-dixit-portfolio.vercel.app/)
+  Visit my portfolio [*Portfolio*](https://vedasdixit.engineer)
 
   <br>
   <br>
