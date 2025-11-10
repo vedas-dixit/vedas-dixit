@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=shark&color=faf0e6&height=220&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=shark&color=faf0e6&height=80&section=header"/>
 <!--[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=vedas-dixit&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/vedas-dixit)-->
 
 <div align="center">
@@ -123,4 +123,4 @@
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=shark&color=faf0e6&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=shark&color=faf0e6&height=80&section=footer"/>
